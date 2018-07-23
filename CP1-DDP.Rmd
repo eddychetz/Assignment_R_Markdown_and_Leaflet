@@ -1,4 +1,6 @@
 ---
+title: "Assignment_R_Markdown_and_Leaflet"
+author: "Eddwin Cheteni"
 date: "July 23, 2018"
 output: html_document
 ---
